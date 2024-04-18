@@ -1,1 +1,1 @@
-# -Assign-02-Java-MaxRunString
+# Assign-02-Java-MaxRunString
